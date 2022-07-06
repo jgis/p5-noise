@@ -1,5 +1,5 @@
 # p5-noise
-Reuse noise functions from p5.js.
+Reuse noise functions from p5.js. No logical code changes. Same LGPL license applies.
 
 Just import and use:
 
